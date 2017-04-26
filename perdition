@@ -1,0 +1,90 @@
+<!doctype html>
+<html>
+	
+<head>
+	<title>hell of a party</title>
+</head>
+
+
+<style>
+		body{
+			background-color: grey;
+		}
+
+
+		.hell{
+    /* The image used */
+    		background-image: url("28dayslatereyes.jpg");
+
+    /* Set a specific height */
+    		min-height: 650px; 
+
+    /* Create the parallax scrolling effect */
+    		background-attachment: fixed;
+    		background-position: center;
+    		background-repeat: no-repeat;
+    		background-size: cover;
+}
+	
+		.hell2{
+			background-image:url("28dayslaterdesolate.jpg");
+			min-height: 700px;
+			background-attachment:fixed;
+			background-position:center;
+			background-repeat: no-repeat;
+			background-size: cover;
+}
+		p{
+			color:white;	
+		}
+
+		pre{
+			color:white;
+		}
+
+</style>
+
+
+<body>
+	
+
+		<audio controls loop>
+			<source src="Tyler The Creator - PartyIsntOver (Instrumental Without Drums).mp3" type="audio/mpeg">
+		</audio>
+		
+
+		<p><strong>Song name: </strong>The party isn't over</p>
+	 
+
+	<div class="hell">
+
+	
+
+	<pre>
+		
+		um
+		
+		I  said
+
+		The party isn't over
+
+		We can still dance
+
+		But I don't have rhythm
+
+		so fuck it, take a chance with me
+
+
+	</pre>
+	
+
+	</div>
+
+	<div class="hell2"></div>
+	
+
+
+</body>
+
+
+</html>
