@@ -1,0 +1,95 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Mage's Den</title>
+	</head>
+
+	
+<style>
+	body{
+		background-image: url("highresmagiciangirl.jpeg");
+	}
+
+	.parallax{
+    /* The image used */
+    		background-image: url("http://pa1.narvii.com/6069/332e5d7ede1bab1c92ca9e146718615293a38f31_hq.gif");
+
+    /* Set a specific height */
+    		min-height: 200px; 
+
+    /* Create the parallax scrolling effect */
+    		background-attachment: fixed;
+    		background-position: center;
+    		background-repeat: no-repeat;
+    		background-size: cover;
+}
+	
+		.parallax2{
+			background-image:url("http://i1051.photobucket.com/albums/s424/Yu-Gi-Oh-RPdA/BlackMagicianEyes.gif");
+			min-height: 200px;
+			background-attachment:fixed;
+			background-position:center;
+			background-repeat: no-repeat;
+			background-size: cover;
+}
+		.parallax3{
+			background-image:url("http://pa1.narvii.com/5701/ce72fed4cb45e8e7de67cd9fbf1062407b1ec422_hq.gif");
+			min-height: 200px;
+			background-attachment:fixed;
+			background-position:center;
+			background-repeat: no-repeat;
+			background-size: cover;
+}
+		.parallax4{
+			background-image: url("https://68.media.tumblr.com/86fda919fc886d096174fbd15bc7c5b0/tumblr_ob7g9lNHdz1scncwdo1_500.gif");
+			min-height: 200px;
+			background-attachment: fixed;
+			background-position: bottom;
+			background-repeat: no-repeat;
+			background-size: cover;
+		}
+
+
+</style>
+
+
+
+	<body>
+
+	<audio controls loop>
+		<source src="Andrew Applepie - Berlin.mp3" type="audio/mpeg">
+	</audio>
+
+	<p><strong>Song Name:</strong> Berlin</p>
+
+	
+
+<ul>
+	
+	<li>Mage's Den</li>
+
+</ul>
+	
+<pre>
+
+	<a href="yugioh.html"><img src="atem.jpg" style="width: 50px; height: 50px;"></a>
+	
+	<a href="jungle.html"><img src="Cave.gif" style="width: 50px; height: 50px;"></a>
+	
+	<a href="gods.html">Egyptian Gods</a>
+
+</pre>
+
+
+	<p><center><h1><em>Welcome to Mage's Den.<em></h1></p></center><br><br>
+
+	<center><h1><em>Dark Magician</em></h1></center>
+
+	<div class="parallax"></div>
+	<div class="parallax2"></div>
+	<div class="parallax3"></div>
+	<div class="parallax4"></div>
+
+	</body>
+
+</html>
