@@ -1,0 +1,95 @@
+<!doctype html>
+<html>
+
+	<head>
+		<title> Jnan's Webpage </title>
+	</head>
+	
+	<style>
+		
+		body{
+		background-image: url("img_8696-copia.jpg");
+
+}
+
+		.parallax{
+    /* The image used */
+    		background-image: url("atem.jpg");
+
+    /* Set a specific height */
+    		min-height: 600px; 
+
+    /* Create the parallax scrolling effect */
+    		background-attachment: fixed;
+    		background-position: center;
+    		background-repeat: no-repeat;
+    		background-size: cover;
+}
+	
+		.parallax2{
+			background-image:url("seto.jpg");
+			min-height: 600px;
+			background-attachment:fixed;
+			background-position:center;
+			background-repeat: no-repeat;
+			background-size: cover;
+}
+		.parallax3{
+			background-image:url("JounouchiKatsuya.jpg");
+			min-height: 600px;
+			background-attachment:fixed;
+			background-position:center;
+			background-repeat: no-repeat;
+			background-size: 100% 100%;
+}
+		p{
+			color:white;
+		}
+
+
+
+
+	</style>
+
+	
+	<body>
+
+	<audio controls loop>
+		<source src="VincentRemember.mp3" type="audio/mpeg">
+	</audio>
+
+	<p><strong>Song Name:</strong> Vincent Remember</p>
+
+	<div class="parallax">
+			
+		<ul> 
+			<li><a href="http://yugioh.wikia.com/wiki/Yugi_Muto"><strong>Fall into the lore that is Yu-Gi-Oh!</strong></a></li>
+			<a href="http://yugioh.wikia.com/wiki/Yugi_Muto"><img src="http://pa1.narvii.com/6070/10dd8c722413a48f9a800f80efaf12037cd0cc42_128.gif"></a><br> 
+			
+			<li><strong><a href="http://yugioh.wikia.com/wiki/Deck_Types:_A-C">Want to build exciting decks?</a></strong></li>
+			<a href="http://yugioh.wikia.com/wiki/Deck_Types:_A-C"><img src="http://pa1.narvii.com/6358/4b89002f0ea5654de9f95da4be03c5326aef8728_128.gif"></a><br>
+		
+			<li><strong><a href="mage.html">Mage's Den</a></strong></li>
+			<a href="mage.html"><img src="http://pa1.narvii.com/6212/5cfc2ebaff71f3103db4b8d8c5ef493ba90ba589_128.gif"></a>
+		</ul>
+
+	</div>
+	
+		<div class="parallax2"></div><br>
+		<div class="parallax3"></div>
+	
+	<ul>
+	
+	<li style="color:white;">Main</li>
+	<li style="color:white;"><a href="mage.html">Mage's Den</a><button onclick="JavaScript:alert('Welcome to the mages den. Magical artifacts and hidden secrets await those who are brave enough')">
+	Info</button></li>
+	<li style="color:white;"><a href="gods.html">Egyptian Gods</a><button onclick="JavaScript:alert('With the coming of these ancient monoliths heralds the chorus of twisting heavens, burning winds, and end times. Art thou ready?')">Info</button></li>
+	<li style="color:white;"><a href="jungle.html">Jungle</a><button onclick="JavaScript:alert('Welcome to the wilds of the jungle')">Info</button></li>
+	<li style="color:white;"><a href="hell.html">Hell</a><button onclick="JavaScript:alert('Party never ends...')">Info</button></li>
+
+	</ul>
+
+
+	</body>
+
+</html>
