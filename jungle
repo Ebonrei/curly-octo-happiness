@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+	
+	<head>
+		<title>Jungle</title>
+	</head>
+
+<style>
+
+body{
+	background-image:url('Cave.gif');
+	background-repeat: no-repeat;
+	background-size: 100% 530%;
+}
+
+
+	
+</style>
+
+<body>
+
+	
+<audio controls loop>
+	<source src="mirage.mp3" type="audio/mpeg">
+</audio>
+
+<p><strong>Song Name:</strong> Mirage</p>
+
+<ul>
+	<li>Jungle</li>
+	<li><a href="yugioh.html">yugioh</a></li>
+	<li><a href="mage.html">Mage's Den</a></li>
+	<li><a href="gods.html">Egyptian Gods</a></li>
+
+</ul>
+
+</body>
+
+</html>
